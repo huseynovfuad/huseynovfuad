@@ -3,7 +3,6 @@
 <h3 align="center">Python Backend Developer From Azerbaijan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseynovfuad&label=Profile%20views&color=0e75b6&style=flat" alt="huseynovfuad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseynovfuad&theme=" alt="huseynovfuad" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js, Express.js**
 - 💬 Ask me about **Python, Django, Django-Rest**
