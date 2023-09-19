@@ -56,4 +56,7 @@
 <img align="center" src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=huseynovfuad&theme=2077" height="180em" />
 </div>
 
+
+![snake gif](https://github.com/huseynovfuad/huseynovfuad/blob/output/github-contribution-grid-snake.gif)
+
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" />
