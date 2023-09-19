@@ -3,11 +3,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseynovfuad&label=Profile%20views&color=0e75b6&style=flat" alt="huseynovfuad" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseynovfuad" alt="huseynovfuad" /></a> </p>
-
 - 🌱 I’m currently learning **Node.js, Express.js**
 
 - 📝 I regularly write articles on [https://medium.com/@fhuseynov803](https://medium.com/@fhuseynov803)
+
+- 💬 Ask me about **Python, Django, Django-Rest**
 
 - 📫 How to reach me **fhuseynov803gmail.com**
 
