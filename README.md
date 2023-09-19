@@ -3,6 +3,7 @@
 <h3 align="center">Python Backend Developer From Azerbaijan</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huseynovfuad&label=Profile%20views&color=0e75b6&style=flat" alt="huseynovfuad" /> </p>
 
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=huseynovfuad&theme=" alt="huseynovfuad" /></a> </p>
 
 - 🌱 I’m currently learning **Node.js, Express.js**
 - 💬 Ask me about **Python, Django, Django-Rest**
@@ -42,9 +43,9 @@
 </p>
 
 <h3 align="left">Stars</h3>
-<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=huseynovfuad&show_icons=true&locale=en&theme=" alt="huseynovfuad" /></p>
+<p>&nbsp;<img align="center" height="180em" src="https://github-readme-stats.vercel.app/api?username=huseynovfuad&show_icons=true&locale=en&theme=dark" alt="huseynovfuad" /></p>
 
-<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=huseynovfuad&theme=" alt="huseynovfuad" /></p>
+<p><img align="center" height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=huseynovfuad&theme=dark" alt="huseynovfuad" /></p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><h3 align="center">Statistics</h3>
 <div align="center">
